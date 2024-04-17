@@ -20,43 +20,59 @@
 _______________________________________________________________________________________________________________________
 ||||||||||||||||||||||||||||||||||||||||||||||||||||**VERSION 0.0**||||||||||||||||||||||||||||||||||||||||||||||||||||
 _______________________________________________________________________________________________________________________
-		-	Local repository 'M5PJSToDo.git' initiated
-				@	C:\Users\coote\Documents\Coding\CourseWork\TTechMod5\M5PJSToDo
-				('local')
-		-	Remote repository 'M5PJSToDo.git' connected as 'remote'
-				@	https://www.github.com/FunKodeT/M5PJSToDo.git/
-				('remote')
-		-	Local and remote commited to same version via push from Local
+-	Local repository 'M5PJSToDo.git' initiated
+		@	C:\Users\coote\Documents\Coding\CourseWork\TTechMod5\M5PJSToDo
+		('local')
+-	Remote repository 'M5PJSToDo.git' connected as 'remote'
+		@	https://www.github.com/FunKodeT/M5PJSToDo.git/
+		('remote')
+-	Local and remote commited to same version via push from Local
 -----------------------------------------------------------------------------------------------------------------------
-		-	Added:
-			~	M5PJSToDo									[/M5PJSToDo/]
-					(maindir)
-			~	0
-					(branch)
-			~	index.html									[dir/]
-					^0.0^
-			~	scripts.js									[dir/]
-					^0.0^
-			~	styles.css									[dir/]
-					^0.0^
-			~	README.txt									[dir/]
-			~	Resources									[M5PJSToDo/Resources]
-					(subdir)
-			~	Todo_template-main.zip						[Resources/]
-			~	Todo_template-main &+						[Resources/Todo_template-main]
-					(Todo_template-main.zip extract)
-					(subdir)
-			~	Theirs										[M5PJSToDo/Theirs]
-					(subdir)
+-	Added:
+	~	M5PJSToDo									[/M5PJSToDo/]
+			(maindir)
+	~	0
+			(branch)
+	~	index.html									[dir/]
+			^0.0^
+	~	scripts.js									[dir/]
+			^0.0^
+	~	styles.css									[dir/]
+			^0.0^
+	~	README.txt									[dir/]
+	~	Resources									[M5PJSToDo/Resources]
+			(subdir)
+	~	Todo_template-main.zip						[Resources/]
+	~	Todo_template-main &+						[Resources/Todo_template-main]
+			(Todo_template-main.zip extract)
+			(subdir)
+	~	Theirs										[M5PJSToDo/Theirs]
+			(subdir)
 -----------------------------------------------------------------------------------------------------------------------
-		-	Copied:
-			~	index.html									[Todo_template-main]	=	[Theirs/]
-					^1^
-			~	scripts.js									[Todo_template-main]	=	[Theirs/]
-					^1^
-			~	styles.css									[Todo_template-main]	=	[Theirs/]
-					^1^
+-	Copied:
+	~	index.html									[Todo_template-main]	=	[Theirs/]
+			^1^
+	~	scripts.js									[Todo_template-main]	=	[Theirs/]
+			^1^
+	~	styles.css									[Todo_template-main]	=	[Theirs/]
+			^1^
 -----------------------------------------------------------------------------------------------------------------------
-		-	Updated:
-			~	README.txt									[dir/]
+-	Updated:
+	~	README.txt									[dir/]
+=======================================================================================================================
+|||||||||||||||||||||||||||||||||||||||||||||||||||| **BRANCH 1** |||||||||||||||||||||||||||||||||||||||||||||||||||||
+_______________________________________________________________________________________________________________________
+||||||||||||||||||||||||||||||||||||||||||||||||||||**VERSION 1.0**||||||||||||||||||||||||||||||||||||||||||||||||||||
+_______________________________________________________________________________________________________________________
+-	Followed commented instructions within the script.js^1^ file, applied to script.js^0.0^ file
+-	Pushed local to remote
+-----------------------------------------------------------------------------------------------------------------------
+-	Added:
+	~	1
+			(branch)
+-----------------------------------------------------------------------------------------------------------------------
+-	Updated:
+	~	scripts.js									[dir/]
+			^0.0	=	1.0^
+	~	README.txt									[dir/]
 =======================================================================================================================
